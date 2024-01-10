@@ -1,4 +1,4 @@
-This a NextJS project for a for digital assets store. The project uses React and TailwindCSS and is developed in TypeScript.
+This is a NextJS project for a digital assets store. The project uses React and TailwindCSS and is developed in TypeScript.
 
 ## Getting Started
 
