@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a NextJS project for a digital assets store. The project uses React and TailwindCSS and is developed in TypeScript.
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Install dependencies and run the development server
 ```
-
+npm install
+npm run dev
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project details
+The web application allows for users to share, buy and sell digital assets in a beautiful and secure environment.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Functionality
+- Account creation
+- User authentication
+- Authentication through verification email
+- Assets upload
+- Instant asset delivery through email
+- Secure payment system
+- Secure routing
+- Admin dashboard
+- Local persisted shopping cart
+  
 
-## Learn More
+## Project images
+![firefox_qw4jl0Fezj](https://github.com/danzin/digitalstore/assets/8279984/177d8ce7-3046-4108-8b64-667ba58e7a58)
 
-To learn more about Next.js, take a look at the following resources:
+![1cMwxsBNe0](https://github.com/danzin/digitalstore/assets/8279984/3c404e70-60aa-465c-a49f-c89ce9d9fafb)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![firefox_asb2wmzfv9](https://github.com/danzin/digitalstore/assets/8279984/8cde18cc-d08a-4ffa-857a-9b6f3768977b)
