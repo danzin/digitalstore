@@ -15,12 +15,14 @@ The web application allows for users to share, buy and sell digital assets in a 
 ### Functionality
 - Account creation
 - User authentication
-- Verification through email
+- Authentication through verification email
 - Assets upload
 - Instant asset delivery through email
 - Secure payment system
 - Secure routing
-
+- Admin dashboard
+- Local persisted shopping cart
+  
 
 ## Project images
 ![firefox_qw4jl0Fezj](https://github.com/danzin/digitalstore/assets/8279984/177d8ce7-3046-4108-8b64-667ba58e7a58)
